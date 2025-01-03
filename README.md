@@ -1,2 +1,2 @@
-# CertificationStudy
-실기준비
+CertificationStudy
+
